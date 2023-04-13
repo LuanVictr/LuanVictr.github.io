@@ -1,0 +1,48 @@
+.home-body {
+  display: flex;
+  background-image: url('../Images/body-background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 850px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+@font-face {
+  font-family: tiltneon;
+  src: url('../fonts/tiltneon.ttf');
+}
+
+@font-face {
+  font-family: digital;
+  src: url('../fonts/digital.ttf');
+}
+
+.body-text h2,h3,h4 {
+  color: white;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+
+.body-text h2 {
+  font-size: 45px;
+}
+
+.body-text h3 {
+  font-size: 35px;
+}
+
+.body-text h4 {
+  font-family: digital;
+  font-size: 25px;
+}
+
+.body-text h2,h3 {
+  font-family: tiltneon;
+}
+
+.body-text {
+  display: flex;
+  flex-direction: column;
+}

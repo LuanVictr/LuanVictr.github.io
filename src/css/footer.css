@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+@font-face {
+  font-family: tiltneon;
+  src: url('../fonts/tiltneon.ttf');
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  width: 100%;
+  height: 60px;
+}
+
+.footer h4 {
+  font-size: 25px;
+  font-family: tiltneon;
+}
+
+.navLinks {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 30%;
+}

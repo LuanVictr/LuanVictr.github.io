@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+@font-face {
+  font-family: tiltneon;
+  src: url('../fonts/tiltneon.ttf');
+}
+
+.logoImage {
+  height: 60px;
+  border-radius: 50px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+  height: 80px;
+  align-items: center;
+}
+
+.header-navegation a {
+  color: white;
+  font-family: tiltneon;
+  font-size: 17px;
+  font-weight: 800;
+  transition: all 0.4s ease 0s;
+  padding: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+  border-radius: 10px;
+}
+
+.header-links a {
+  color: white;
+  font-family: sans-serif;
+  font-weight: 800;
+}
+
+.header-navegation a:hover {
+  color: black;
+  background-color: white;
+  font-size: 18px;
+}
+
+.header-navegation {
+  display: flex;
+  justify-content: space-between;
+  width: 250px;
+}
+
+.header-links {
+  display: flex;
+  width: 150px;
+  justify-content: space-between;
+}
+
+#gmail-icon {
+  padding-top: 2px;
+}
+
+.social-links {
+  width: 40px;
+}
