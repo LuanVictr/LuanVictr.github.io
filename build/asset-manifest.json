@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b96aaf0.css",
+    "main.js": "/static/js/main.baafb155.js",
+    "static/media/LuanLogo.png": "/static/media/LuanLogo.1799854d1607941fc306.png",
+    "static/media/tiltneon.ttf": "/static/media/tiltneon.25bb3680775199cf1037.ttf",
+    "static/media/body-background.png": "/static/media/body-background.0ab5a5fa9e51d4c83a4b.png",
+    "static/media/tryfood-filter-page.png": "/static/media/tryfood-filter-page.bfd6cd3a2374439b93f4.png",
+    "static/media/dyro-tela-pesquisa.png": "/static/media/dyro-tela-pesquisa.02ee55fc355f90a6ffba.png",
+    "static/media/tfc-tabela-visitantes.png": "/static/media/tfc-tabela-visitantes.2652a665eb14206d67d5.png",
+    "static/media/github-icon.png": "/static/media/github-icon.61cbb6e46a0603e1b42b.png",
+    "static/media/digital.ttf": "/static/media/digital.79c8511a32aab83743b7.ttf",
+    "static/media/linkedin-icon.png": "/static/media/linkedin-icon.91563b887fe6335929af.png",
+    "static/media/gmail-icon.png": "/static/media/gmail-icon.09342d06237f41a5834d.png",
+    "index.html": "/index.html",
+    "main.3b96aaf0.css.map": "/static/css/main.3b96aaf0.css.map",
+    "main.baafb155.js.map": "/static/js/main.baafb155.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b96aaf0.css",
+    "static/js/main.baafb155.js"
+  ]
+}

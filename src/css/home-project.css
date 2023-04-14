@@ -3,6 +3,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 50px;
 }
 
 @font-face {
@@ -14,6 +15,13 @@
   color: black;
   font-family: tiltneon;
   font-size: 30px;
+}
+
+.project-container:hover {
+  transition: all 0.4s ease 0s;
+  width: 600px;
+  height: 450px;
+  font-size: 50px;
 }
 
 .projects h2 {

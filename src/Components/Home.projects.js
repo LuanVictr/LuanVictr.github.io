@@ -18,7 +18,7 @@ function HomeProjects () {
           <img className="image-project" src={dyroImage} alt="projeto 2"/>
           <h4>Dyro</h4>
         </div></a>
-        <a href=""><div className="project-container">
+        <a href="https://github.com/LuanVictr/trybe-project-tfc"><div className="project-container">
           <img className="image-project" src={tfcImage} alt="projeto 3" />
           <h4>Trybe Futebol Clube</h4>
         </div></a>
