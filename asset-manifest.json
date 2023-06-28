@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b73dcdee.css",
-    "main.js": "/static/js/main.8f15ebbb.js",
+    "main.js": "/static/js/main.ab9800cc.js",
     "static/media/LuanLogo.png": "/static/media/LuanLogo.1799854d1607941fc306.png",
     "static/media/tiltneon.ttf": "/static/media/tiltneon.25bb3680775199cf1037.ttf",
     "static/media/body-background.png": "/static/media/body-background.0ab5a5fa9e51d4c83a4b.png",
@@ -14,10 +14,10 @@
     "static/media/gmail-icon.png": "/static/media/gmail-icon.09342d06237f41a5834d.png",
     "index.html": "/index.html",
     "main.b73dcdee.css.map": "/static/css/main.b73dcdee.css.map",
-    "main.8f15ebbb.js.map": "/static/js/main.8f15ebbb.js.map"
+    "main.ab9800cc.js.map": "/static/js/main.ab9800cc.js.map"
   },
   "entrypoints": [
     "static/css/main.b73dcdee.css",
-    "static/js/main.8f15ebbb.js"
+    "static/js/main.ab9800cc.js"
   ]
 }
